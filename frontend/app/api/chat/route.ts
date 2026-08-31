@@ -139,7 +139,8 @@ export async function POST(req: Request) {
       }
       
       try {
-        const backendRes = await fetch("http://localhost:8000/api/chat", {
+        const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000';
+        const backendRes = await fetch(`${API_URL}/api/chat`, {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({ message: destToQuery })

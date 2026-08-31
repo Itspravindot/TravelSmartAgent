@@ -10,6 +10,8 @@ import { Input } from '@/components/ui/input';
 import { Card } from '@/components/ui/card';
 import dynamic from 'next/dynamic';
 
+const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000';
+
 // Dynamically import Leaflet map component with SSR disabled
 const MapComponent = dynamic(() => import('@/components/MapComponent'), {
   ssr: false,
@@ -183,7 +185,7 @@ export default function PlannerUI() {
     const activeUser = usernameToUse || user;
     if (!activeUser) return;
     try {
-      const response = await axios.get(`http://localhost:8000/api/trips?username=${activeUser}`);
+      const response = await axios.get(`${API_URL}/api/trips?username=${activeUser}`);
       setTrips(response.data);
     } catch (error) {
       console.error('Error fetching trips:', error);
@@ -217,7 +219,7 @@ export default function PlannerUI() {
     
     const endpoint = isRegistering ? 'register' : 'login';
     try {
-      const response = await axios.post(`http://localhost:8000/api/auth/${endpoint}`, {
+      const response = await axios.post(`${API_URL}/api/auth/${endpoint}`, {
         username: authUsername.trim(),
         password: authPassword.trim()
       });
@@ -242,7 +244,7 @@ export default function PlannerUI() {
 
   const handleSelectTrip = async (id: string) => {
     try {
-      const response = await axios.get(`http://localhost:8000/api/trips/${id}`);
+      const response = await axios.get(`${API_URL}/api/trips/${id}`);
       const trip = response.data;
       setMessages(trip.messages);
       setCurrentTripId(trip.id);
@@ -255,7 +257,7 @@ export default function PlannerUI() {
 
   const handleDeleteTripDirect = async (id: string) => {
     try {
-      await axios.delete(`http://localhost:8000/api/trips/${id}`);
+      await axios.delete(`${API_URL}/api/trips/${id}`);
       setTrips(prev => prev.filter(t => t.id !== id));
       if (currentTripId === id) {
         handleNewChat();
@@ -269,7 +271,7 @@ export default function PlannerUI() {
   const handleRenameTrip = async (id: string, newName: string) => {
     if (!newName.trim()) return;
     try {
-      await axios.put(`http://localhost:8000/api/trips/${id}`, { name: newName });
+      await axios.put(`${API_URL}/api/trips/${id}`, { name: newName });
       setTrips(prev => prev.map(t => t.id === id ? { ...t, name: newName } : t));
       if (currentTripId === id) {
         setTripName(newName);
@@ -324,7 +326,7 @@ export default function PlannerUI() {
             setCurrentCoordinates([lat, lon]);
             // Also update the database save payload if possible
             if (currentTripId) {
-              axios.post('http://localhost:8000/api/trips', {
+              axios.post(`${API_URL}/api/trips`, {
                 id: currentTripId,
                 name: tempTripName,
                 destination: detectedName,
@@ -373,7 +375,7 @@ export default function PlannerUI() {
         setTripName(nameToUse);
       }
 
-      const saveResponse = await axios.post('http://localhost:8000/api/trips', {
+      const saveResponse = await axios.post(`${API_URL}/api/trips`, {
         id: currentTripId || undefined,
         name: nameToUse,
         destination: destToUse,
