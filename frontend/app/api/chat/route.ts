@@ -213,10 +213,10 @@ ${contextPlan ? `Below is the baseline pre-generated travel plan and real-time i
 
     // Deduplicate models to try (max 3 attempts)
     const FALLBACK_MODELS = [
-      "auto/best-free",
-      "kc/openrouter/free",
-      "oc/hy3-free"
-        ];
+      "meta-llama/llama-3.1-8b-instruct:free",
+      "google/gemma-2-9b-it:free",
+      "huggingfaceh4/zephyr-7b-beta:free"
+    ];
     const modelsToTry = [
       defaultModel,
       ...FALLBACK_MODELS.filter(m => m !== defaultModel)
