@@ -1,0 +1,1802 @@
+[
+    {
+        "date": "2026-06-15",
+        "destination": "Goa",
+        "crowd_index": 0.28,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-06-15",
+        "destination": "Manali",
+        "crowd_index": 0.15,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-06-15",
+        "destination": "Jaipur",
+        "crowd_index": 0.98,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-06-15",
+        "destination": "Kerala",
+        "crowd_index": 0.92,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-06-15",
+        "destination": "Sikkim",
+        "crowd_index": 0.11,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-06-15",
+        "destination": "Andaman",
+        "crowd_index": 0.24,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-06-15",
+        "destination": "Udaipur",
+        "crowd_index": 0.34,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-06-15",
+        "destination": "Agra",
+        "crowd_index": 0.5,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-06-15",
+        "destination": "Rishikesh",
+        "crowd_index": 0.69,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-06-15",
+        "destination": "Darjeeling",
+        "crowd_index": 0.24,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-06-16",
+        "destination": "Goa",
+        "crowd_index": 0.52,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-06-16",
+        "destination": "Manali",
+        "crowd_index": 0.19,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-06-16",
+        "destination": "Jaipur",
+        "crowd_index": 0.92,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-06-16",
+        "destination": "Kerala",
+        "crowd_index": 0.41,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-06-16",
+        "destination": "Sikkim",
+        "crowd_index": 0.66,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-06-16",
+        "destination": "Andaman",
+        "crowd_index": 0.6,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-06-16",
+        "destination": "Udaipur",
+        "crowd_index": 0.95,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-06-16",
+        "destination": "Agra",
+        "crowd_index": 0.9,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-06-16",
+        "destination": "Rishikesh",
+        "crowd_index": 0.65,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-06-16",
+        "destination": "Darjeeling",
+        "crowd_index": 0.81,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-06-17",
+        "destination": "Goa",
+        "crowd_index": 0.7,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-06-17",
+        "destination": "Manali",
+        "crowd_index": 0.83,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-06-17",
+        "destination": "Jaipur",
+        "crowd_index": 0.56,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-06-17",
+        "destination": "Kerala",
+        "crowd_index": 0.19,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-06-17",
+        "destination": "Sikkim",
+        "crowd_index": 0.11,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-06-17",
+        "destination": "Andaman",
+        "crowd_index": 0.97,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-06-17",
+        "destination": "Udaipur",
+        "crowd_index": 0.25,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-06-17",
+        "destination": "Agra",
+        "crowd_index": 0.68,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-06-17",
+        "destination": "Rishikesh",
+        "crowd_index": 0.91,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-06-17",
+        "destination": "Darjeeling",
+        "crowd_index": 0.92,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-06-18",
+        "destination": "Goa",
+        "crowd_index": 0.46,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-06-18",
+        "destination": "Manali",
+        "crowd_index": 0.93,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-06-18",
+        "destination": "Jaipur",
+        "crowd_index": 0.64,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-06-18",
+        "destination": "Kerala",
+        "crowd_index": 0.32,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-06-18",
+        "destination": "Sikkim",
+        "crowd_index": 0.51,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-06-18",
+        "destination": "Andaman",
+        "crowd_index": 0.46,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-06-18",
+        "destination": "Udaipur",
+        "crowd_index": 0.72,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-06-18",
+        "destination": "Agra",
+        "crowd_index": 0.8,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-06-18",
+        "destination": "Rishikesh",
+        "crowd_index": 0.73,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-06-18",
+        "destination": "Darjeeling",
+        "crowd_index": 0.27,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-06-19",
+        "destination": "Goa",
+        "crowd_index": 0.19,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-06-19",
+        "destination": "Manali",
+        "crowd_index": 0.42,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-06-19",
+        "destination": "Jaipur",
+        "crowd_index": 0.83,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-06-19",
+        "destination": "Kerala",
+        "crowd_index": 0.32,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-06-19",
+        "destination": "Sikkim",
+        "crowd_index": 0.45,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-06-19",
+        "destination": "Andaman",
+        "crowd_index": 0.89,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-06-19",
+        "destination": "Udaipur",
+        "crowd_index": 0.46,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-06-19",
+        "destination": "Agra",
+        "crowd_index": 0.54,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-06-19",
+        "destination": "Rishikesh",
+        "crowd_index": 0.25,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-06-19",
+        "destination": "Darjeeling",
+        "crowd_index": 0.62,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-06-20",
+        "destination": "Goa",
+        "crowd_index": 0.42,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-06-20",
+        "destination": "Manali",
+        "crowd_index": 0.21,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-06-20",
+        "destination": "Jaipur",
+        "crowd_index": 0.71,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-06-20",
+        "destination": "Kerala",
+        "crowd_index": 0.42,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-06-20",
+        "destination": "Sikkim",
+        "crowd_index": 0.59,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-06-20",
+        "destination": "Andaman",
+        "crowd_index": 0.61,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-06-20",
+        "destination": "Udaipur",
+        "crowd_index": 0.2,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-06-20",
+        "destination": "Agra",
+        "crowd_index": 0.47,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-06-20",
+        "destination": "Rishikesh",
+        "crowd_index": 0.77,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-06-20",
+        "destination": "Darjeeling",
+        "crowd_index": 0.33,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-06-21",
+        "destination": "Goa",
+        "crowd_index": 0.31,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-06-21",
+        "destination": "Manali",
+        "crowd_index": 0.28,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-06-21",
+        "destination": "Jaipur",
+        "crowd_index": 0.74,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-06-21",
+        "destination": "Kerala",
+        "crowd_index": 0.53,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-06-21",
+        "destination": "Sikkim",
+        "crowd_index": 0.63,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-06-21",
+        "destination": "Andaman",
+        "crowd_index": 0.15,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-06-21",
+        "destination": "Udaipur",
+        "crowd_index": 0.86,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-06-21",
+        "destination": "Agra",
+        "crowd_index": 0.19,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-06-21",
+        "destination": "Rishikesh",
+        "crowd_index": 0.61,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-06-21",
+        "destination": "Darjeeling",
+        "crowd_index": 0.59,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-06-22",
+        "destination": "Goa",
+        "crowd_index": 0.58,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-06-22",
+        "destination": "Manali",
+        "crowd_index": 0.8,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-06-22",
+        "destination": "Jaipur",
+        "crowd_index": 0.85,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-06-22",
+        "destination": "Kerala",
+        "crowd_index": 0.17,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-06-22",
+        "destination": "Sikkim",
+        "crowd_index": 0.18,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-06-22",
+        "destination": "Andaman",
+        "crowd_index": 0.99,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-06-22",
+        "destination": "Udaipur",
+        "crowd_index": 0.56,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-06-22",
+        "destination": "Agra",
+        "crowd_index": 0.81,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-06-22",
+        "destination": "Rishikesh",
+        "crowd_index": 0.34,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-06-22",
+        "destination": "Darjeeling",
+        "crowd_index": 0.99,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-06-23",
+        "destination": "Goa",
+        "crowd_index": 0.2,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-06-23",
+        "destination": "Manali",
+        "crowd_index": 0.9,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-06-23",
+        "destination": "Jaipur",
+        "crowd_index": 0.81,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-06-23",
+        "destination": "Kerala",
+        "crowd_index": 0.82,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-06-23",
+        "destination": "Sikkim",
+        "crowd_index": 0.88,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-06-23",
+        "destination": "Andaman",
+        "crowd_index": 0.4,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-06-23",
+        "destination": "Udaipur",
+        "crowd_index": 0.78,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-06-23",
+        "destination": "Agra",
+        "crowd_index": 0.36,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-06-23",
+        "destination": "Rishikesh",
+        "crowd_index": 0.18,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-06-23",
+        "destination": "Darjeeling",
+        "crowd_index": 0.67,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-06-24",
+        "destination": "Goa",
+        "crowd_index": 0.45,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-06-24",
+        "destination": "Manali",
+        "crowd_index": 1.0,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-06-24",
+        "destination": "Jaipur",
+        "crowd_index": 0.53,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-06-24",
+        "destination": "Kerala",
+        "crowd_index": 0.64,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-06-24",
+        "destination": "Sikkim",
+        "crowd_index": 0.57,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-06-24",
+        "destination": "Andaman",
+        "crowd_index": 0.91,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-06-24",
+        "destination": "Udaipur",
+        "crowd_index": 0.33,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-06-24",
+        "destination": "Agra",
+        "crowd_index": 0.49,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-06-24",
+        "destination": "Rishikesh",
+        "crowd_index": 0.33,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-06-24",
+        "destination": "Darjeeling",
+        "crowd_index": 0.22,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-06-25",
+        "destination": "Goa",
+        "crowd_index": 0.74,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-06-25",
+        "destination": "Manali",
+        "crowd_index": 0.4,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-06-25",
+        "destination": "Jaipur",
+        "crowd_index": 0.4,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-06-25",
+        "destination": "Kerala",
+        "crowd_index": 0.85,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-06-25",
+        "destination": "Sikkim",
+        "crowd_index": 0.82,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-06-25",
+        "destination": "Andaman",
+        "crowd_index": 0.23,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-06-25",
+        "destination": "Udaipur",
+        "crowd_index": 0.18,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-06-25",
+        "destination": "Agra",
+        "crowd_index": 0.78,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-06-25",
+        "destination": "Rishikesh",
+        "crowd_index": 0.6,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-06-25",
+        "destination": "Darjeeling",
+        "crowd_index": 0.31,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-06-26",
+        "destination": "Goa",
+        "crowd_index": 0.61,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-06-26",
+        "destination": "Manali",
+        "crowd_index": 0.73,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-06-26",
+        "destination": "Jaipur",
+        "crowd_index": 0.61,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-06-26",
+        "destination": "Kerala",
+        "crowd_index": 0.52,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-06-26",
+        "destination": "Sikkim",
+        "crowd_index": 0.7,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-06-26",
+        "destination": "Andaman",
+        "crowd_index": 0.34,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-06-26",
+        "destination": "Udaipur",
+        "crowd_index": 0.82,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-06-26",
+        "destination": "Agra",
+        "crowd_index": 0.14,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-06-26",
+        "destination": "Rishikesh",
+        "crowd_index": 0.28,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-06-26",
+        "destination": "Darjeeling",
+        "crowd_index": 0.59,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-06-27",
+        "destination": "Goa",
+        "crowd_index": 0.88,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-06-27",
+        "destination": "Manali",
+        "crowd_index": 0.75,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-06-27",
+        "destination": "Jaipur",
+        "crowd_index": 0.4,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-06-27",
+        "destination": "Kerala",
+        "crowd_index": 0.4,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-06-27",
+        "destination": "Sikkim",
+        "crowd_index": 0.76,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-06-27",
+        "destination": "Andaman",
+        "crowd_index": 0.92,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-06-27",
+        "destination": "Udaipur",
+        "crowd_index": 0.75,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-06-27",
+        "destination": "Agra",
+        "crowd_index": 0.74,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-06-27",
+        "destination": "Rishikesh",
+        "crowd_index": 0.77,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-06-27",
+        "destination": "Darjeeling",
+        "crowd_index": 0.37,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-06-28",
+        "destination": "Goa",
+        "crowd_index": 0.69,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-06-28",
+        "destination": "Manali",
+        "crowd_index": 0.97,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-06-28",
+        "destination": "Jaipur",
+        "crowd_index": 0.52,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-06-28",
+        "destination": "Kerala",
+        "crowd_index": 0.7,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-06-28",
+        "destination": "Sikkim",
+        "crowd_index": 0.51,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-06-28",
+        "destination": "Andaman",
+        "crowd_index": 0.79,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-06-28",
+        "destination": "Udaipur",
+        "crowd_index": 0.55,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-06-28",
+        "destination": "Agra",
+        "crowd_index": 0.72,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-06-28",
+        "destination": "Rishikesh",
+        "crowd_index": 0.64,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-06-28",
+        "destination": "Darjeeling",
+        "crowd_index": 0.66,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-06-29",
+        "destination": "Goa",
+        "crowd_index": 0.34,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-06-29",
+        "destination": "Manali",
+        "crowd_index": 0.94,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-06-29",
+        "destination": "Jaipur",
+        "crowd_index": 0.85,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-06-29",
+        "destination": "Kerala",
+        "crowd_index": 0.27,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-06-29",
+        "destination": "Sikkim",
+        "crowd_index": 0.61,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-06-29",
+        "destination": "Andaman",
+        "crowd_index": 0.7,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-06-29",
+        "destination": "Udaipur",
+        "crowd_index": 0.26,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-06-29",
+        "destination": "Agra",
+        "crowd_index": 0.35,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-06-29",
+        "destination": "Rishikesh",
+        "crowd_index": 0.14,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-06-29",
+        "destination": "Darjeeling",
+        "crowd_index": 0.98,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-06-30",
+        "destination": "Goa",
+        "crowd_index": 0.37,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-06-30",
+        "destination": "Manali",
+        "crowd_index": 0.52,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-06-30",
+        "destination": "Jaipur",
+        "crowd_index": 0.17,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-06-30",
+        "destination": "Kerala",
+        "crowd_index": 0.95,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-06-30",
+        "destination": "Sikkim",
+        "crowd_index": 0.41,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-06-30",
+        "destination": "Andaman",
+        "crowd_index": 0.19,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-06-30",
+        "destination": "Udaipur",
+        "crowd_index": 0.31,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-06-30",
+        "destination": "Agra",
+        "crowd_index": 0.85,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-06-30",
+        "destination": "Rishikesh",
+        "crowd_index": 0.19,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-06-30",
+        "destination": "Darjeeling",
+        "crowd_index": 0.93,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-07-01",
+        "destination": "Goa",
+        "crowd_index": 0.85,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-07-01",
+        "destination": "Manali",
+        "crowd_index": 0.1,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-07-01",
+        "destination": "Jaipur",
+        "crowd_index": 0.92,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-07-01",
+        "destination": "Kerala",
+        "crowd_index": 0.59,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-07-01",
+        "destination": "Sikkim",
+        "crowd_index": 0.83,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-07-01",
+        "destination": "Andaman",
+        "crowd_index": 0.24,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-07-01",
+        "destination": "Udaipur",
+        "crowd_index": 0.36,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-07-01",
+        "destination": "Agra",
+        "crowd_index": 0.6,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-07-01",
+        "destination": "Rishikesh",
+        "crowd_index": 0.19,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-07-01",
+        "destination": "Darjeeling",
+        "crowd_index": 0.73,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-07-02",
+        "destination": "Goa",
+        "crowd_index": 0.16,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-07-02",
+        "destination": "Manali",
+        "crowd_index": 0.68,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-07-02",
+        "destination": "Jaipur",
+        "crowd_index": 0.5,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-07-02",
+        "destination": "Kerala",
+        "crowd_index": 0.72,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-07-02",
+        "destination": "Sikkim",
+        "crowd_index": 0.51,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-07-02",
+        "destination": "Andaman",
+        "crowd_index": 0.97,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-07-02",
+        "destination": "Udaipur",
+        "crowd_index": 0.16,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-07-02",
+        "destination": "Agra",
+        "crowd_index": 0.5,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-07-02",
+        "destination": "Rishikesh",
+        "crowd_index": 0.15,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-07-02",
+        "destination": "Darjeeling",
+        "crowd_index": 0.35,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-07-03",
+        "destination": "Goa",
+        "crowd_index": 0.59,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-07-03",
+        "destination": "Manali",
+        "crowd_index": 0.61,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-07-03",
+        "destination": "Jaipur",
+        "crowd_index": 0.94,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-07-03",
+        "destination": "Kerala",
+        "crowd_index": 0.5,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-07-03",
+        "destination": "Sikkim",
+        "crowd_index": 0.16,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-07-03",
+        "destination": "Andaman",
+        "crowd_index": 0.2,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-07-03",
+        "destination": "Udaipur",
+        "crowd_index": 0.33,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-07-03",
+        "destination": "Agra",
+        "crowd_index": 0.6,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-07-03",
+        "destination": "Rishikesh",
+        "crowd_index": 0.13,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-07-03",
+        "destination": "Darjeeling",
+        "crowd_index": 0.95,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-07-04",
+        "destination": "Goa",
+        "crowd_index": 0.97,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-07-04",
+        "destination": "Manali",
+        "crowd_index": 0.92,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-07-04",
+        "destination": "Jaipur",
+        "crowd_index": 0.43,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-07-04",
+        "destination": "Kerala",
+        "crowd_index": 0.58,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-07-04",
+        "destination": "Sikkim",
+        "crowd_index": 0.66,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-07-04",
+        "destination": "Andaman",
+        "crowd_index": 0.95,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-07-04",
+        "destination": "Udaipur",
+        "crowd_index": 0.21,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-07-04",
+        "destination": "Agra",
+        "crowd_index": 0.92,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-07-04",
+        "destination": "Rishikesh",
+        "crowd_index": 0.86,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-07-04",
+        "destination": "Darjeeling",
+        "crowd_index": 0.31,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-07-05",
+        "destination": "Goa",
+        "crowd_index": 0.66,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-07-05",
+        "destination": "Manali",
+        "crowd_index": 0.78,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-07-05",
+        "destination": "Jaipur",
+        "crowd_index": 0.51,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-07-05",
+        "destination": "Kerala",
+        "crowd_index": 0.27,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-07-05",
+        "destination": "Sikkim",
+        "crowd_index": 0.17,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-07-05",
+        "destination": "Andaman",
+        "crowd_index": 0.33,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-07-05",
+        "destination": "Udaipur",
+        "crowd_index": 0.21,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-07-05",
+        "destination": "Agra",
+        "crowd_index": 0.13,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-07-05",
+        "destination": "Rishikesh",
+        "crowd_index": 0.37,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-07-05",
+        "destination": "Darjeeling",
+        "crowd_index": 0.62,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-07-06",
+        "destination": "Goa",
+        "crowd_index": 0.72,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-07-06",
+        "destination": "Manali",
+        "crowd_index": 0.83,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-07-06",
+        "destination": "Jaipur",
+        "crowd_index": 0.78,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-07-06",
+        "destination": "Kerala",
+        "crowd_index": 0.71,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-07-06",
+        "destination": "Sikkim",
+        "crowd_index": 0.23,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-07-06",
+        "destination": "Andaman",
+        "crowd_index": 0.64,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-07-06",
+        "destination": "Udaipur",
+        "crowd_index": 0.44,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-07-06",
+        "destination": "Agra",
+        "crowd_index": 0.27,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-07-06",
+        "destination": "Rishikesh",
+        "crowd_index": 0.32,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-07-06",
+        "destination": "Darjeeling",
+        "crowd_index": 0.58,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-07-07",
+        "destination": "Goa",
+        "crowd_index": 0.24,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-07-07",
+        "destination": "Manali",
+        "crowd_index": 0.38,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-07-07",
+        "destination": "Jaipur",
+        "crowd_index": 0.45,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-07-07",
+        "destination": "Kerala",
+        "crowd_index": 0.87,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-07-07",
+        "destination": "Sikkim",
+        "crowd_index": 0.38,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-07-07",
+        "destination": "Andaman",
+        "crowd_index": 0.4,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-07-07",
+        "destination": "Udaipur",
+        "crowd_index": 0.51,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-07-07",
+        "destination": "Agra",
+        "crowd_index": 0.65,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-07-07",
+        "destination": "Rishikesh",
+        "crowd_index": 0.13,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-07-07",
+        "destination": "Darjeeling",
+        "crowd_index": 0.28,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-07-08",
+        "destination": "Goa",
+        "crowd_index": 0.8,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-07-08",
+        "destination": "Manali",
+        "crowd_index": 0.85,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-07-08",
+        "destination": "Jaipur",
+        "crowd_index": 0.67,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-07-08",
+        "destination": "Kerala",
+        "crowd_index": 0.18,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-07-08",
+        "destination": "Sikkim",
+        "crowd_index": 0.29,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-07-08",
+        "destination": "Andaman",
+        "crowd_index": 0.59,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-07-08",
+        "destination": "Udaipur",
+        "crowd_index": 0.44,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-07-08",
+        "destination": "Agra",
+        "crowd_index": 0.82,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-07-08",
+        "destination": "Rishikesh",
+        "crowd_index": 0.19,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-07-08",
+        "destination": "Darjeeling",
+        "crowd_index": 0.63,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-07-09",
+        "destination": "Goa",
+        "crowd_index": 0.54,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-07-09",
+        "destination": "Manali",
+        "crowd_index": 0.47,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-07-09",
+        "destination": "Jaipur",
+        "crowd_index": 0.73,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-07-09",
+        "destination": "Kerala",
+        "crowd_index": 0.73,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-07-09",
+        "destination": "Sikkim",
+        "crowd_index": 0.33,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-07-09",
+        "destination": "Andaman",
+        "crowd_index": 0.83,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-07-09",
+        "destination": "Udaipur",
+        "crowd_index": 0.83,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-07-09",
+        "destination": "Agra",
+        "crowd_index": 0.42,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-07-09",
+        "destination": "Rishikesh",
+        "crowd_index": 0.28,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-07-09",
+        "destination": "Darjeeling",
+        "crowd_index": 0.47,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-07-10",
+        "destination": "Goa",
+        "crowd_index": 0.57,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-07-10",
+        "destination": "Manali",
+        "crowd_index": 0.3,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-07-10",
+        "destination": "Jaipur",
+        "crowd_index": 0.19,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-07-10",
+        "destination": "Kerala",
+        "crowd_index": 0.33,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-07-10",
+        "destination": "Sikkim",
+        "crowd_index": 0.33,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-07-10",
+        "destination": "Andaman",
+        "crowd_index": 0.22,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-07-10",
+        "destination": "Udaipur",
+        "crowd_index": 0.56,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-07-10",
+        "destination": "Agra",
+        "crowd_index": 0.49,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-07-10",
+        "destination": "Rishikesh",
+        "crowd_index": 0.78,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-07-10",
+        "destination": "Darjeeling",
+        "crowd_index": 0.54,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-07-11",
+        "destination": "Goa",
+        "crowd_index": 0.57,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-07-11",
+        "destination": "Manali",
+        "crowd_index": 0.14,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-07-11",
+        "destination": "Jaipur",
+        "crowd_index": 0.67,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-07-11",
+        "destination": "Kerala",
+        "crowd_index": 0.82,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-07-11",
+        "destination": "Sikkim",
+        "crowd_index": 0.32,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-07-11",
+        "destination": "Andaman",
+        "crowd_index": 0.79,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-07-11",
+        "destination": "Udaipur",
+        "crowd_index": 0.79,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-07-11",
+        "destination": "Agra",
+        "crowd_index": 0.62,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-07-11",
+        "destination": "Rishikesh",
+        "crowd_index": 0.68,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-07-11",
+        "destination": "Darjeeling",
+        "crowd_index": 0.34,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-07-12",
+        "destination": "Goa",
+        "crowd_index": 1.0,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-07-12",
+        "destination": "Manali",
+        "crowd_index": 0.53,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-07-12",
+        "destination": "Jaipur",
+        "crowd_index": 0.58,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-07-12",
+        "destination": "Kerala",
+        "crowd_index": 0.77,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-07-12",
+        "destination": "Sikkim",
+        "crowd_index": 0.91,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-07-12",
+        "destination": "Andaman",
+        "crowd_index": 0.45,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-07-12",
+        "destination": "Udaipur",
+        "crowd_index": 0.76,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-07-12",
+        "destination": "Agra",
+        "crowd_index": 0.75,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-07-12",
+        "destination": "Rishikesh",
+        "crowd_index": 0.58,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-07-12",
+        "destination": "Darjeeling",
+        "crowd_index": 0.53,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-07-13",
+        "destination": "Goa",
+        "crowd_index": 0.28,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-07-13",
+        "destination": "Manali",
+        "crowd_index": 0.1,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-07-13",
+        "destination": "Jaipur",
+        "crowd_index": 0.96,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-07-13",
+        "destination": "Kerala",
+        "crowd_index": 0.76,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-07-13",
+        "destination": "Sikkim",
+        "crowd_index": 0.68,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-07-13",
+        "destination": "Andaman",
+        "crowd_index": 0.37,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-07-13",
+        "destination": "Udaipur",
+        "crowd_index": 0.46,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-07-13",
+        "destination": "Agra",
+        "crowd_index": 0.51,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-07-13",
+        "destination": "Rishikesh",
+        "crowd_index": 0.28,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-07-13",
+        "destination": "Darjeeling",
+        "crowd_index": 0.29,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-07-14",
+        "destination": "Goa",
+        "crowd_index": 0.34,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-07-14",
+        "destination": "Manali",
+        "crowd_index": 0.78,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-07-14",
+        "destination": "Jaipur",
+        "crowd_index": 0.67,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-07-14",
+        "destination": "Kerala",
+        "crowd_index": 0.61,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-07-14",
+        "destination": "Sikkim",
+        "crowd_index": 0.64,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-07-14",
+        "destination": "Andaman",
+        "crowd_index": 0.6,
+        "traffic_status": "Moderate"
+    },
+    {
+        "date": "2026-07-14",
+        "destination": "Udaipur",
+        "crowd_index": 0.26,
+        "traffic_status": "Severe"
+    },
+    {
+        "date": "2026-07-14",
+        "destination": "Agra",
+        "crowd_index": 0.81,
+        "traffic_status": "Low"
+    },
+    {
+        "date": "2026-07-14",
+        "destination": "Rishikesh",
+        "crowd_index": 0.64,
+        "traffic_status": "High"
+    },
+    {
+        "date": "2026-07-14",
+        "destination": "Darjeeling",
+        "crowd_index": 0.32,
+        "traffic_status": "Moderate"
+    }
+]
